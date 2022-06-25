@@ -2,7 +2,6 @@ let myName = "Adaeze Emejor"
 let myHeight = "I am 4.5'ft"
 let myCountry = "I am from Nigeria"
 
-
 console.log(myName);
 console.log(myHeight);
 console.log(myCountry);
